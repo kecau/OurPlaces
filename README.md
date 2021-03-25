@@ -1,4 +1,9 @@
 # OurPlaces
+
+## Note
+
+This repository is originated from [luongvuongnguyen/OurPlaces](https://github.com/luongvuongnguyen/OurPlaces).
+
 OurPlaces is the a cross-cultural crowdsourcing platform where people from different cultures can share their spatial experiences.
 
 ## Introduction

@@ -25,12 +25,12 @@ Apache Tomcat 8
 2. Install MySQL 8.0
 
 Config MySQL
-```
+``
 -e MYSQL_ROOT_PASSWORD=password \
 -e MYSQL_DATABASE=ourplaces \
 -e MYSQL_USER=root \
 -e MYSQL_PASSWORD=ke@cau \ 
-```
+``
 Import all .sql file in dataset folder.
 
 3. Create project in Netbean (set port 8084)

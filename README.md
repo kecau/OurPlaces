@@ -21,9 +21,7 @@ Apache Tomcat 8
 ```
 ### Setup and Run
 1. Install IDE (Netbean 12)
-
 2. Install MySQL 8.0
-
 * Config MySQL
 ```
 -e MYSQL_ROOT_PASSWORD=password \
@@ -32,9 +30,7 @@ Apache Tomcat 8
 -e MYSQL_PASSWORD=ke@cau \ 
 ```
 * Import all .sql file in dataset folder.
-
 3. Create project in Netbean (set port 8084)
-
 4. Run platform in browser
 * http://localhost:8084/ourplaces
 * Try online version: http://recsys.cau.ac.kr:8084/ourplaces

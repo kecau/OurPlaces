@@ -34,3 +34,6 @@ Apache Tomcat 8
 4. Run platform in browser
 * http://localhost:8084/ourplaces
 * Try online version: http://recsys.cau.ac.kr:8084/ourplaces
+
+## Contact
+Email: nguyenluongvuong@gmail.com
